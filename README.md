@@ -2,11 +2,12 @@
 
 ## Contents
 
-- [Animals](#animals)
-- [Anime](#anime)
-- [City](#city)
-- [Landscapes](#landscapes)
-- [Nature](#nature)
+- [Wallpapers](#wallpapers)
+  - [Animals](#animals)
+  - [Anime](#anime)
+  - [City](#city)
+  - [Landscapes](#landscapes)
+  - [Nature](#nature)
 
 ## Wallpapers
 

@@ -112,11 +112,15 @@ done
 {
   printf '# %s\n\n' "$TITLE"
   printf '## Contents\n\n'
+  printf -- '- [Wallpapers](#wallpapers)\n'
 
   for dir in "${categories[@]}"; do
     category=$(format_category "$dir")
-    anchor=$(printf '%s' "$category" | tr '[:upper:]' '[:lower:]' | sed -E 's/[[:space:]]+/-/g')
-    printf -- '- [%s](#%s)\n' "$category" "$anchor"
+    anchor=$(printf '%s' "$category" |
+      tr '[:upper:]' '[:lower:]' |
+      sed -E 's/[[:space:]]+/-/g')
+
+    printf '  - [%s](#%s)\n' "$category" "$anchor"
   done
 
   printf '\n## Wallpapers\n\n'
