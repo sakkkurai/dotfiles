@@ -6,10 +6,12 @@
   - [Desktop Wallpapers](#desktop-wallpapers)
     - [Animals](#desktop-animals)
     - [Anime](#desktop-anime)
+    - [Art](#desktop-art)
     - [City](#desktop-city)
     - [Landscapes](#desktop-landscapes)
     - [Nature](#desktop-nature)
   - [Mobile Wallpapers](#mobile-wallpapers)
+    - [Art](#mobile-art)
     - [Furry](#mobile-furry)
     - [Nature](#mobile-nature)
     - [Nothing](#mobile-nothing)
@@ -44,88 +46,93 @@
 <sub>2639 × 1429 · FHD</sub>
 </td>
 <td width="50%" valign="top">
-<img src="wallpapers/desktop/anime/cute_cats.JPG" alt="Cute Cats" width="100%">
-
-<strong>Cute Cats</strong><br>
-<sub>3300 × 2550 · 4K+</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/frieren_1.jpg" alt="Frieren 1" width="100%">
 
 <strong>Frieren 1</strong><br>
 <sub>5040 × 2160 · 4K+ · UW</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/lain_1.png" alt="Lain 1" width="100%">
 
 <strong>Lain 1</strong><br>
 <sub>1920 × 1080 · FHD</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/lain_2.jpg" alt="Lain 2" width="100%">
 
 <strong>Lain 2</strong><br>
 <sub>1920 × 1080 · FHD</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/miku_1.jpeg" alt="Miku 1" width="100%">
 
 <strong>Miku 1</strong><br>
 <sub>2944 × 1656 · FHD</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/red_hair_mirror.png" alt="Red Hair Mirror" width="100%">
 
 <strong>Red Hair Mirror</strong><br>
 <sub>4096 × 2304 · 4K+</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/rei_1.png" alt="Rei 1" width="100%">
 
 <strong>Rei 1</strong><br>
 <sub>3840 × 2160 · 4K+</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/rei_2.png" alt="Rei 2" width="100%">
 
 <strong>Rei 2</strong><br>
 <sub>2639 × 1484 · FHD</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/spirited_away_1.jpg" alt="Spirited Away 1" width="100%">
 
 <strong>Spirited Away 1</strong><br>
 <sub>3840 × 2160 · 4K+</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/tunnel_eye_1.png" alt="Tunnel Eye 1" width="100%">
 
 <strong>Tunnel Eye 1</strong><br>
 <sub>5716 × 3216 · 4K+</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/tunnel_eye_2.png" alt="Tunnel Eye 2" width="100%">
 
 <strong>Tunnel Eye 2</strong><br>
 <sub>5716 × 3216 · 4K+</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="wallpapers/desktop/anime/white_hair_keep_out.png" alt="White Hair Keep Out" width="100%">
 
 <strong>White Hair Keep Out</strong><br>
 <sub>3840 × 2160 · 4K+</sub>
+</td>
+</tr>
+</tbody></table>
+
+#### Art
+
+<table><tbody>
+<tr>
+<td width="50%" valign="top">
+<img src="wallpapers/desktop/art/cute_cats.JPG" alt="Cute Cats" width="100%">
+
+<strong>Cute Cats</strong><br>
+<sub>3300 × 2550 · 4K+</sub>
 </td>
 <td width="50%"></td>
 </tr>
@@ -180,6 +187,20 @@
 
 ### Mobile Wallpapers
 
+#### Art
+
+<table><tbody>
+<tr>
+<td width="50%" valign="top">
+<img src="wallpapers/mobile/art/cute_cats.jpg" alt="Cute Cats" width="100%">
+
+<strong>Cute Cats</strong><br>
+<sub>1242 × 2760 · 4K+</sub>
+</td>
+<td width="50%"></td>
+</tr>
+</tbody></table>
+
 #### Furry
 
 <table><tbody>
@@ -232,7 +253,12 @@
 <strong>Nothing 3</strong><br>
 <sub>1242 × 2760 · 4K+</sub>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<img src="wallpapers/mobile/nothing/nothing_4.png" alt="Nothing 4" width="100%">
+
+<strong>Nothing 4</strong><br>
+<sub>1242 × 2760 · 4K+</sub>
+</td>
 </tr>
 </tbody></table>
 
@@ -266,4 +292,4 @@
 
 ---
 
-<sub>26 wallpapers · Automatically generated</sub>
+<sub>28 wallpapers · Automatically generated</sub>
